@@ -7,7 +7,7 @@
     <img src="https://i.pinimg.com/736x/ee/14/40/ee1440b712b7d47e1b7ce07ca6f64bb4.jpg" alt="main_menu">
 </p>
 <p align="center">
-    <img src="https://i.pinimg.com/736x/ef/d1/10/efd11001a2fd7ddc0173e05fcf63824b.jpg" alt="start">
+    <img src="[https://i.pinimg.com/736x/ef/d1/10/efd11001a2fd7ddc0173e05fcf63824b.jpg](https://imgur.com/a/f6qwqRS)" alt="start">
 </p>
 <p align="center">
     <img src="https://i.pinimg.com/736x/6e/c1/fd/6ec1fd8c22ed5566ba6e07e22ee5f702.jpg" alt="fight">
