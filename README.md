@@ -19,3 +19,7 @@
     <li>Phạm Khắc Hoài Nam</li>
 </ul>
 ![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/72a493b5-744d-464b-97f2-ae7f2bc6f07e)
+![yeu_thich](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/1b832408-f621-460e-a8c8-7dfb4bcf4600)
+![nhac_phatnn](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/b35e59c3-b2f0-445e-9326-80617811b212)
+![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/9802110d-edcd-4f70-b172-da0b83169a5a)
+![xem_user](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/8603fb8e-ed89-4c0a-b926-54de03e35b4d)
