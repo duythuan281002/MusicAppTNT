@@ -3,11 +3,13 @@
 <a align="left" href="https://github.com/duythuan281002/MusicAppTNT/blob/master/main.pdf">Latex</a>
 <h3 align="left">APP Music TNT</h3>
 <h5 align="left">Admin</h5>
-![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/52eb70c5-33ef-4fb3-9be7-9a8a2be4e703)
-![xem_user](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/1326bf36-4016-4b95-ab60-ce712edd77a6)
+![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/d480091e-5fcf-4592-9e6c-f8f2949f42f2)
+![xem_user](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/d474d9de-5c44-42bc-a6b9-2215c5f747e5)
+
+
 <h5 align="left">User</h5>
-![nhac_phatnn](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/a29cc653-a69c-495d-87eb-eac17a35c920)
-![yeu_thich](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/7435d9e3-2ad9-459c-837a-a97faed068d6)
+![nhac_phatnn](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/99dee0dd-0772-4662-a7a8-f29461dd0dc9)
+![yeu_thich](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/20d1af58-c04f-4a91-9fd3-d9eb99fd3e06)
 <h3 align="left">Developers</h3>
 <ul>
     <li>Nguyễn Duy Thuần</li>
