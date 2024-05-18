@@ -2,7 +2,8 @@
 <h3 align="left">File báo cáo</h3>
 <a align="left" href="https://github.com/duythuan281002/MusicAppTNT/blob/master/main.pdf">Latex</a>
 <h3 align="left">APP Music TNT</h3>
-![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/7d27d195-a64d-46dd-89bb-8b8e1ae7920d.png)
+<img src="![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/7dc91ff6-8fa7-450b-bd14-706f33c97b89)
+" alt="main_menu">
 
 
 
