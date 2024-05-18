@@ -3,7 +3,7 @@
 <a align="left" href="https://github.com/duythuan281002/MusicAppTNT/blob/master/main.pdf">Latex</a>
 <h3 align="left">APP Music TNT</h3>
 <img src="![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/7dc91ff6-8fa7-450b-bd14-706f33c97b89)
-" alt="main_menu">
+">
 
 
 
