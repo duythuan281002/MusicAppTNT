@@ -3,7 +3,8 @@
 <a align="left" href="https://github.com/duythuan281002/MusicAppTNT/blob/master/main.pdf">Latex</a>
 <h3 align="left">APP Music TNT</h3>
 <h5 align="left">Admin</h5>
-![add](https://github.com/duythuan281002/MusicAppTNT/blob/main/images/add.png)
+![add](https://github.com/duythuan281002/MusicAppTNT/assets/113931871/cf05db77-9a7d-4a77-875d-f3e6f2594428)
+
 ![combobox](https://github.com/duythuan281002/MusicAppTNT/blob/main/images/combobox.png)
 <br>
 ![xem_user](https://github.com/duythuan281002/MusicAppTNT/blob/main/images/xem_user.png)
